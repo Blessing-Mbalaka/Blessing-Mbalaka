@@ -1,2 +1,10 @@
-01101001 00100000 01100001 00100000 01100010 01101111 01110011 01110011.
+public class Public Profile {
 
+    public static void main(String[] args) {
+    Profile p = new Profile;
+    p.Display("Blessing is cool");
+    p.Display("Lets Build the future");
+
+  }
+
+}
