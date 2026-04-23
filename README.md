@@ -6,7 +6,7 @@ Blessing Mbalaka:
 4) Intermediate in Python and JavaScript for backend and scripting tasks
 5) Skilled in Git, GitHub (Markdown documentation), API testing (Postman), and MVC architecture
 
-## 🚀 Tech Stack
+##  Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
